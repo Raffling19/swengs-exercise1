@@ -3,8 +3,7 @@
 
 def count_characters(str_under_test):
     """Returns the length of str_under_test"""
-    return len(str_under_test)
-    
+    return 1
 
 
 def first_three_letters(str_under_test):
